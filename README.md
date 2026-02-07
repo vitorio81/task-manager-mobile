@@ -23,8 +23,8 @@ O **Task Manager** é um aplicativo para gestão de tarefas diárias, permitindo
 ## 📂 3. Organização do Repositório (Pilar 2)
 Toda a documentação acadêmica exigida está organizada na pasta raiz:
 - [**Checkpoints:**](./docs/projeto-mobile/checkpoints/) Evolução semanal do projeto.
-- [**Relatório Final:**](./docs/projeto-mobile/relatorio-final.md) Detalhamento técnico e solução do problema.
-- [**Plano de Testes:**](./docs/projeto-mobile/plano-de-testes.md) Estratégia de validação das regras de negócio.
+- [**Relatório Final:**](./docs/projeto-mobile/relatorio_final.md) Detalhamento técnico e solução do problema.
+- [**Plano de Testes:**](./docs/projeto-mobile/plano_de_testes.md) Estratégia de validação das regras de negócio.
 - [**Log de IA:**](./docs/projeto-mobile/prompt-log.md) Registro de interações com IA para suporte técnico.
 
 ---
